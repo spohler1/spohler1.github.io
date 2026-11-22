@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://spohler1.github.io/sitemap.xml
